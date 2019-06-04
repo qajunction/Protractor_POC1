@@ -1,4 +1,4 @@
 1. Setup Protractor
 2. Create Spec.js
 3. Create Config.js
-4. Execute Test
+4. Execute Test and verify result
